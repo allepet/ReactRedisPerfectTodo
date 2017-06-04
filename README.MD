@@ -1,4 +1,4 @@
-#React + Perfect + Swift = Todo app
+# React + Perfect + Swift = Todo app
 
 This is a simple app using React for UI, Perfect/Swift as backend
 and Redis for database engine (Using persistence)
