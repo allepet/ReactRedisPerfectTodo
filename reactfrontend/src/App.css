@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+html, body {
+    margin: 0;
+    height:100%;
+}
+
+nav, footer {
+    width: 100%;
+    background-color: dimgray;
+    color: white;
+    padding: 30px;
+    padding-left: 40px;
+    font-size: 1.5em;
+    font-family: Roboto;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
+}
+
+nav > * {
+    display: block;
+}
+
+.tasks {
+    overflow: scroll;
+    margin-bottom: 160px;
+}
+.description {
+    font-size: 13pt;
+}
+
+footer {
+    position: fixed;
+    bottom:0;
+}
+footer > div > * {
+    display: block;
+    margin: 10px;
+}

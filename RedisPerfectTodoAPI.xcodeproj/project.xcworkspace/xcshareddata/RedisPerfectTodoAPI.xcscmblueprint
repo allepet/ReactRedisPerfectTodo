@@ -1,0 +1,212 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0B9B07A57A7603A158703662ACDD6F3ABAA339F4+++971CB8B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "615FD99B652E80AC2E813EEEE7964BA10A9886D5+++D21B271" : 9223372036854775807,
+    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A+++547A379" : 9223372036854775807,
+    "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++4E81407" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++F81D181" : 9223372036854775807,
+    "E71C9F673135F52EEF9E6F1B8D0895D4850F2E7F+++E0956E5" : 9223372036854775807,
+    "E2306DAE0C98D148736A05084B6FAB44F03B4909+++5CED3A6" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++65776AF" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++8F1342F" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++A29BD7B" : 9223372036854775807,
+    "9C479842BAB37E5A02B52F0D8BB690041F1A927F+++FC76FCE" : 9223372036854775807,
+    "748C9296F4CFA6FB6918A0C73ECFD0DCCA1E2109+++78F54F2" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++89201B9" : 9223372036854775807,
+    "C4127C9B9C8FDF608B532AD72407863CE2797629+++4D49A13" : 9223372036854775807,
+    "DCD994A20FFF69E73D7DE28EB512BBF004934554+++5847F39" : 9223372036854775807,
+    "3D2B8B3C65A5DCCE6F839227AA4595360205FD35+++611AB03" : 9223372036854775807,
+    "F024B372FCFF470DA20DD02157DAACC2E58B7655+++54B847E" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++E1B6352" : 9223372036854775807,
+    "9948E95A70F754B78E92114BF205DC946294AF5D+++BF17B65" : 9223372036854775807,
+    "707E537FAFD9FE60087F782BC7623198FD2B6711+++BB763D8" : 9223372036854775807,
+    "07D38DC615E8ADA07E68B7DA8DD8A2654638A334+++6AD2359" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++F893A7B" : 9223372036854775807,
+    "DCA698EAAA175C2796E06D7F52A4609033E8DEB9+++889F747" : 9223372036854775807,
+    "A1425CC37302E6F8C8BD550497B9059B098D1BAF+++172D9B8" : 9223372036854775807,
+    "F88BAF124B3873F88370C4673F85BA1C3F357BBF+++B88F2E5" : 9223372036854775807,
+    "6F1260245BD69EFA9A05D126763C86280510C6E1+++D754E35" : 9223372036854775807,
+    "0B9B07A57A7603A158703662ACDD6F3ABAA339F4+++971CB8B" : 9223372036854775807,
+    "CADB2473D823C4B67E031AA19BD5C58C5C0C5C2C+++EBFAE68" : 9223372036854775807,
+    "013355313FF9FF2B55EA1241A5D12353638D9AC3+++B9046AC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "294A52A2-3E50-4266-94C2-602B79C7FEE9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "615FD99B652E80AC2E813EEEE7964BA10A9886D5+++D21B271" : "PerfectTemplate\/.build\/checkouts\/Perfect-Thread.git-6541237758607105655\/",
+    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A+++547A379" : "PerfectTemplate\/.build\/checkouts\/Perfect-HTTP.git--6392294032632002019\/",
+    "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++4E81407" : "PerfectTemplate\/.build\/checkouts\/node.git-9175390252000121167\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++F81D181" : "PerfectTemplate\/.build\/checkouts\/vapor.git-5492988889259800272\/",
+    "E71C9F673135F52EEF9E6F1B8D0895D4850F2E7F+++E0956E5" : "PerfectTemplate\/.build\/checkouts\/Perfect-Crypto.git--5196635702121641122\/",
+    "E2306DAE0C98D148736A05084B6FAB44F03B4909+++5CED3A6" : "PerfectTemplate\/.build\/checkouts\/PerfectLib.git-3712999737848873669\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++65776AF" : "PerfectTemplate\/.build\/checkouts\/routing.git-5366657101075133678\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++8F1342F" : "PerfectTemplate\/.build\/checkouts\/engine.git-3311994267206676365\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++A29BD7B" : "PerfectTemplate\/.build\/checkouts\/core.git-9210800844849382486\/",
+    "9C479842BAB37E5A02B52F0D8BB690041F1A927F+++FC76FCE" : "PerfectTemplate\/.build\/checkouts\/sockets.git-972942978533733666\/",
+    "748C9296F4CFA6FB6918A0C73ECFD0DCCA1E2109+++78F54F2" : "PerfectTemplate\/.build\/checkouts\/console.git--2431895819212044213\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++89201B9" : "PerfectTemplate\/.build\/checkouts\/vapor.git-5492988889259800272\/",
+    "C4127C9B9C8FDF608B532AD72407863CE2797629+++4D49A13" : "PerfectTemplate\/.build\/checkouts\/Perfect-HTTPServer.git--6671958091389663080\/",
+    "DCD994A20FFF69E73D7DE28EB512BBF004934554+++5847F39" : "PerfectTemplate\/.build\/checkouts\/Perfect-COpenSSL.git--4744624199947727386\/",
+    "3D2B8B3C65A5DCCE6F839227AA4595360205FD35+++611AB03" : "PerfectTemplate\/.build\/checkouts\/bits.git-9196587591774126515\/",
+    "F024B372FCFF470DA20DD02157DAACC2E58B7655+++54B847E" : "PerfectTemplate\/.build\/checkouts\/bcrypt.git-6177224099894028443\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++E1B6352" : "PerfectTemplate\/.build\/checkouts\/vapor.git-5492988889259800272\/",
+    "9948E95A70F754B78E92114BF205DC946294AF5D+++BF17B65" : "PerfectTemplate\/.build\/checkouts\/json.git-9153249592855998091\/",
+    "707E537FAFD9FE60087F782BC7623198FD2B6711+++BB763D8" : "PerfectTemplate\/.build\/checkouts\/redis.git--22716008034766659\/",
+    "07D38DC615E8ADA07E68B7DA8DD8A2654638A334+++6AD2359" : "PerfectTemplate\/.build\/checkouts\/crypto.git-7980259129511365902\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++F893A7B" : "PerfectTemplate\/.build\/checkouts\/vapor.git-5492988889259800272\/",
+    "DCA698EAAA175C2796E06D7F52A4609033E8DEB9+++889F747" : "PerfectTemplate\/.build\/checkouts\/random.git--3118593962244350674\/",
+    "A1425CC37302E6F8C8BD550497B9059B098D1BAF+++172D9B8" : "PerfectTemplate\/.build\/checkouts\/debugging.git-4365319567167379684\/",
+    "F88BAF124B3873F88370C4673F85BA1C3F357BBF+++B88F2E5" : "PerfectTemplate\/.build\/checkouts\/redis-provider.git-682558327639657644\/",
+    "6F1260245BD69EFA9A05D126763C86280510C6E1+++D754E35" : "PerfectTemplate\/.build\/checkouts\/Perfect-Net.git-3268755499654502659\/",
+    "0B9B07A57A7603A158703662ACDD6F3ABAA339F4+++971CB8B" : "PerfectTemplate\/",
+    "CADB2473D823C4B67E031AA19BD5C58C5C0C5C2C+++EBFAE68" : "PerfectTemplate\/.build\/checkouts\/multipart.git-4210556629793786970\/",
+    "013355313FF9FF2B55EA1241A5D12353638D9AC3+++B9046AC" : "PerfectTemplate\/.build\/checkouts\/tls.git-2678149690400510061\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RedisPerfectTodoAPI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RedisPerfectTodoAPI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/tls.git-2678149690400510061",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "013355313FF9FF2B55EA1241A5D12353638D9AC3+++B9046AC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/crypto.git-7980259129511365902",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "07D38DC615E8ADA07E68B7DA8DD8A2654638A334+++6AD2359"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PerfectlySoft\/PerfectTemplate.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B9B07A57A7603A158703662ACDD6F3ABAA339F4+++971CB8B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/bits.git-9196587591774126515",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3D2B8B3C65A5DCCE6F839227AA4595360205FD35+++611AB03"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/routing.git-5366657101075133678",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++65776AF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/vapor.git-5492988889259800272",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++89201B9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/engine.git-3311994267206676365",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++8F1342F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/core.git-9210800844849382486",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++A29BD7B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/engine.git-3311994267206676365",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++E1B6352"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/core.git-9210800844849382486",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++F81D181"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/routing.git-5366657101075133678",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++F893A7B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/Perfect-Thread.git-6541237758607105655",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "615FD99B652E80AC2E813EEEE7964BA10A9886D5+++D21B271"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/Perfect-Net.git-3268755499654502659",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F1260245BD69EFA9A05D126763C86280510C6E1+++D754E35"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/redis.git--22716008034766659",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "707E537FAFD9FE60087F782BC7623198FD2B6711+++BB763D8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/console.git--2431895819212044213",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "748C9296F4CFA6FB6918A0C73ECFD0DCCA1E2109+++78F54F2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/Perfect-HTTP.git--6392294032632002019",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9197B75B1BC29921D6E3B1CCDC2B258350009F3A+++547A379"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/json.git-9153249592855998091",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9948E95A70F754B78E92114BF205DC946294AF5D+++BF17B65"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/sockets.git-972942978533733666",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9C479842BAB37E5A02B52F0D8BB690041F1A927F+++FC76FCE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/debugging.git-4365319567167379684",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A1425CC37302E6F8C8BD550497B9059B098D1BAF+++172D9B8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/Perfect-HTTPServer.git--6671958091389663080",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4127C9B9C8FDF608B532AD72407863CE2797629+++4D49A13"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/multipart.git-4210556629793786970",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CADB2473D823C4B67E031AA19BD5C58C5C0C5C2C+++EBFAE68"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/random.git--3118593962244350674",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DCA698EAAA175C2796E06D7F52A4609033E8DEB9+++889F747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/Perfect-COpenSSL.git--4744624199947727386",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DCD994A20FFF69E73D7DE28EB512BBF004934554+++5847F39"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/PerfectLib.git-3712999737848873669",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2306DAE0C98D148736A05084B6FAB44F03B4909+++5CED3A6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/Perfect-Crypto.git--5196635702121641122",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E71C9F673135F52EEF9E6F1B8D0895D4850F2E7F+++E0956E5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/node.git-9175390252000121167",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EE0211841CDBC942EFB5905580DF4AA57B5992F6+++4E81407"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/bcrypt.git-6177224099894028443",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F024B372FCFF470DA20DD02157DAACC2E58B7655+++54B847E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/alejandroantunezreino\/PerfectTemplate\/.build\/repositories\/redis-provider.git-682558327639657644",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F88BAF124B3873F88370C4673F85BA1C3F357BBF+++B88F2E5"
+    }
+  ]
+}

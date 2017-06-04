@@ -1,0 +1,9 @@
+.taskDiv {
+    margin-top: 5px;
+    font-family: Roboto;
+    font-size: 10pt;
+    padding: 20px;
+    padding-left: 40px;
+    z-index: -1;
+    background-color: antiquewhite;
+}
